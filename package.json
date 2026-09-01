@@ -1,7 +1,7 @@
 {
     "name": "@ts-core/two-fa-totp",
     "version": "1.0.1",
-    "description": "Classes and utils for TOTP 2FA",
+    "description": "TOTP provider for two-factor authentication implementing RFC 6238, compatible with Google Authenticator, Authy and Microsoft Authenticator",
     "main": "index.js",
     "scripts": {},
     "author": {
@@ -23,7 +23,17 @@
         "url": "git+https://github.com/ManhattanDoctor/ts-core-two-fa-totp.git"
     },
     "keywords": [
-        "typescript"
+        "typescript",
+        "totp",
+        "2fa",
+        "two-factor",
+        "authentication",
+        "otp",
+        "rfc6238",
+        "google-authenticator",
+        "authy",
+        "security",
+        "mfa"
     ],
     "bugs": {
         "url": "https://github.com/ManhattanDoctor/ts-core-two-fa-totp/issues"
